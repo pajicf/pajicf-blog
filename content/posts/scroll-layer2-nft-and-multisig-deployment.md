@@ -104,7 +104,7 @@ We’ll start by running the `deploy.py` script which will deploy new instances 
 
 As we can see, the contracts were successfully deployed. We can find them by typing those into [Scroll’s Block Explorer](https://l2scan.scroll.io/) search bar in the top right corner.
 
-**TheNFT.sol:** [Link to contract on L2](https://l2scan.scroll.io/address/0x79A485E22d85757c4fa545FfF5DdFE5999E93210)<br/>
+**TheNFT.sol:** [Link to contract on L2](https://l2scan.scroll.io/address/0xF7e514622AF27662fBd940b7061a2daD977ba478)<br/>
 **Supersig.vy:** [Link to contract on L2](https://l2scan.scroll.io/address/0x79A485E22d85757c4fa545FfF5DdFE5999E93210)
 
 It seems that contracts are easily deployed, so no problem with developer tooling, even the non-mainstream ones.<br/>
@@ -126,7 +126,7 @@ Now, we will go through the whole flow of proposing a minting transaction to exe
 Let’s break this down:
 1. First, we propose NFT minting by calling the `propose()` function inside our contract
 2. Second, we as one of the participants of this multisig approve the proposal. And because we’ve set the threshold to just 1, this one approval will be enough to be able to commence to the next and final step.
-3. Finally, we execute it. We can check out the whole transaction in the block explorer by typing the tx hash into the search bar. Or more easily, just by pressing [this](https://l2scan.scroll.io/tx/0x7107b3a2c8a8c4232b87fc044e14849a95124c6eca8759fddf56c25c7165421b) link.
+3. Finally, we execute it. We can check out the whole transaction in the block explorer by typing the tx hash into the search bar. Or more easily, just by pressing [this](https://l2scan.scroll.io/tx/0x5902d0b33b571bcca396dcf462d4880eb0aa93088fd40e41c31dfc9792e0005e) link.
 ![multisig_tx](/media/scroll-layer2-nft-and-multisig-deployment/multisig_tx.png "Multisig tx")
 
 And voila, our NFT was minted successfully. Hence the second statement is true as well, the network is bytecode compatible with any language that gets compiled to the EVM bytecode. ✅
