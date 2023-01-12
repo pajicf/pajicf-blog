@@ -82,7 +82,6 @@ const StyledHeader = styled.header`
   position: sticky;
   z-index: 100;
   top: 0;
-  background-color: rgba(255, 255, 255, .15);
   backdrop-filter: blur(5px);
   padding-top: var(--size-300);
   padding-bottom: var(--size-300);
