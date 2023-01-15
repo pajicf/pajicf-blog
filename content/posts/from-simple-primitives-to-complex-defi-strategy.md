@@ -78,7 +78,7 @@ We don’t think too much about it exactly because of how simple it is from the 
 
 The beauty of this is that the composability is infinite. Many other projects are building on top of Yearn, making even more complex financial systems but at the same time even so more elegant and beautiful.
 
-This simplicity on the front and complexity at the back is what drew us to build on top of [Yearn Finance](https://yearn.finance/). The end-users, in the end, just want a simple and safe way to compound their earnings and grow their principal. [Here](https://pajicf.netlify.app/blog/how-to-leverage-credit-tesseract/) is an example of what a manual strategy looks like.
+This simplicity on the front and complexity at the back is what drew us to build on top of [Yearn Finance](https://yearn.finance/). The end-users, in the end, just want a simple and safe way to compound their earnings and grow their principal. [Here](https://0xpajic.com/blog/how-to-leverage-credit-tesseract/) is an example of what a manual strategy looks like.
 <br/><br/>![tesseract](/media/from-simple-primitives-to-complex-defi-strategy/tesseract.jpeg "Connect wallet to AAVE")<br/>
 After initial fascination with this composable, foldable programmable money, the reality kicks in and you realize that although you can do all of this manually, why should you? We built [Tesseract](https://tesr.finance/#/) on [Polygon](https://polygon.technology/) and [Avalanche](https://www.avax.network/) (chains that have pretty inexpensive transactions compared to [ETH mainnet](https://ethereum.org/en/enterprise/)).
 

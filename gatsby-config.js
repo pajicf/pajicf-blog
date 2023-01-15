@@ -7,7 +7,7 @@ module.exports = {
     },
     openGraphImage: `open-graph-image.png`,
     description: `My personal Web3 blog`,
-    siteUrl: `https://pajicf.netlify.app`,
+    siteUrl: `https://0xpajic.com`,
     social: {
       twitter: `pajicf`,
     },
