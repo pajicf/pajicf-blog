@@ -102,10 +102,10 @@ We’ll start by running the `deploy.py` script which will deploy new instances 
 ![nft_deployed](/media/scroll-layer2-nft-and-multisig-deployment/nft_deployed.png "NFT deployed")<br/>
 ![supersig_deployed](/media/scroll-layer2-nft-and-multisig-deployment/supersig_deployed.png "Contracts overview")
 
-As we can see, the contracts were successfully deployed. We can find them by typing those into [Scroll’s Block Explorer](https://l2scan.scroll.io/) search bar in the top right corner.
+As we can see, the contracts were successfully deployed. We can find them by typing those into [Scroll’s Block Explorer](https://blockscout.scroll.io/) search bar in the top right corner.
 
-**TheNFT.sol:** [Link to contract on L2](https://l2scan.scroll.io/address/0xF7e514622AF27662fBd940b7061a2daD977ba478)<br/>
-**Supersig.vy:** [Link to contract on L2](https://l2scan.scroll.io/address/0x79A485E22d85757c4fa545FfF5DdFE5999E93210)
+**TheNFT.sol:** [Link to contract on L2](https://blockscout.scroll.io/address/0x2b755B2D78156215Ac9dA3b2E09eB674B1493C92)<br/>
+**Supersig.vy:** [Link to contract on L2](https://blockscout.scroll.io/address/0x6fD91afc1C7dCB72387da9a4A6B3108C6538CF85)
 
 It seems that contracts are easily deployed, so no problem with developer tooling, even the non-mainstream ones.<br/>
 That makes one of the statements true, developer tooling does work out of the box. ✅
