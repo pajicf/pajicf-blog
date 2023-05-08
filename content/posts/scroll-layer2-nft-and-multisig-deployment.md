@@ -137,3 +137,6 @@ Although the race is getting hot, and this is a topic of interest of many right 
 [@pseudotheos](https://twitter.com/pseudotheos) wrote a good blog post regarding the breakdown of the current zkEVM space, you can read the post [here](https://pseudotheos.mirror.xyz/b_696drhG1k6Nc89RHBHFuoC0IF6g88q-fjJw9dDbKQ). It’s on us to research more and develop a truly decentralized solution worthy of scaling Ethereum and reaching out to more users.
 
 There’s a lot to digest here, so get to work anon!
+
+## Resources
+[GitHub Repository](https://github.com/pajicf/scroll-multisig-and-nft) of the Project used
