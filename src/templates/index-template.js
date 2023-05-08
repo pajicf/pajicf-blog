@@ -2,18 +2,16 @@ import React from 'react';
 import { graphql } from 'gatsby';
 import Layout from '../components/layout';
 import PostList from '../components/post-list';
-import styled from 'styled-components';
 import StyledLink from '../components/styled-link';
 
 const HomePage = ({ data }) => {
   const posts = data.allMarkdownRemark.nodes;
-  const intro = data.markdownRemark.html;
   const title = data.markdownRemark.frontmatter.title;
 
   return (
     <Layout title={title}>
       <h1>Hi, I'm Filip</h1>
-      <p>I'm going to be sharing my thoughs about various things here, primarily around <b>Web3</b></p>
+      <p>I'm going to be sharing my thoughts about various things here, primarily around <b>Web3</b> and <b>ZKP</b></p>
       <br/>
       <PostList posts={posts} />
       <StyledLink
@@ -34,28 +32,6 @@ const HomePage = ({ data }) => {
 };
 
 export default HomePage;
-
-const Intro = styled.div`
-  display: flex;
-  flex-direction: column;
-  max-width: 80ch;
-  align-items: center;
-  margin-right: auto;
-  margin-left: auto;
-  margin-top: var(--size-800);
-  margin-bottom: var(--size-900);
-  text-align: center;
-
-  & p {
-    font-size: var(--size-400);
-  }
-
-  @media screen and (max-width: 700px) {
-    & h1 {
-      font-size: var(--size-700);
-    }
-  }
-`;
 
 export const pageQuery = graphql`
   query($slug: String!) {

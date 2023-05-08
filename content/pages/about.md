@@ -8,5 +8,8 @@ profile_image: /media/profile-image.jpg
 ### I'm Filip
 
 <br/>
-I'm driven by search for public good technology that improves society.
-Result first, web3 native engineer with years of experience currently improving finance and building the future.
+Previously a DeFi builder, now building Protocols.
+
+You can't build great things without a great foundation, we should scale Ethereum first and allow builders to build.
+
+I'll be writing about Zero-Knowledge Proofs, Rollups and occasional Philosophy.

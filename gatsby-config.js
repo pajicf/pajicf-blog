@@ -13,16 +13,12 @@ module.exports = {
     },
     socialLinks: [
       {
-        name: "lens",
-        url: "https://www.lensfrens.xyz/pajic.lens"
+        name: "twitter",
+        url: "https://twitter.com/pajicf",
       },
       {
         name: "github",
         url: "https://github.com/pajicf",
-      },
-      {
-        name: "twitter",
-        url: "https://twitter.com/pajicf",
       },
       {
         name: "linkedin",
@@ -31,6 +27,10 @@ module.exports = {
       {
         name: "mail",
         url: "mailto:fica.pajic@gmail.com?subject=Gm% Filip!"
+      },
+      {
+        name: "rss",
+        url: "https://0xpajic.com/rss.xml"
       }
     ],
   },
