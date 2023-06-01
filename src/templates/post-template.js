@@ -53,6 +53,7 @@ const PostWrapper = styled.div`
   margin-right: auto;
   max-width: 70ch;
   word-wrap: break-word;
+  font-family: Arial;
 `;
 
 const PostTitle = styled.h1`

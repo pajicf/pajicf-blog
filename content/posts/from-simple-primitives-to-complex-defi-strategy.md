@@ -1,5 +1,5 @@
 ---
-title: From Simple Primitives to Complex DeFi Strategy?
+title: From Simple Primitives to Complex DeFi Strategy
 date: 2022-04-06 16:00
 tags:
 - strategy
