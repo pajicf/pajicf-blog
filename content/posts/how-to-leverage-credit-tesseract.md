@@ -1,5 +1,5 @@
 ---
-title: How to Leverage Credit to Make Money with AAVE and Tesseract?
+title: Leverage farming using Tesseract
 date: 2022-03-09 16:00
 tags:
   - aave

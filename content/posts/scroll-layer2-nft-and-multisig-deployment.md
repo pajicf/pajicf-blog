@@ -1,5 +1,5 @@
 ---
-title: How to deploy NFTs and Multisig on Scroll zkEVM?
+title: Developer's intro to zkEVMs
 date: 2023-01-09 02:00
 tags:
 - scroll
