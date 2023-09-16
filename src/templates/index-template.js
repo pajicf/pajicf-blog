@@ -11,7 +11,7 @@ const HomePage = ({ data }) => {
   return (
     <Layout title={title}>
       <h1>Hi, I'm Filip</h1>
-      <p>I'm going to be sharing my thoughts about various things here, primarily around <b>Web3</b> and <b>ZKP</b></p>
+      <p>I'm going to be sharing my thoughts about various things here
       <br/>
       <PostList posts={posts} />
       <StyledLink
