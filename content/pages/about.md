@@ -8,6 +8,7 @@ profile_image: /media/profile-image.jpg
 ### I'm Filip
 
 <br/>
-Previously a DeFi builder, now building Protocols.
+I'm a "Crypto-Native" developer, had a chance to use Ethereum and develop professionally on it before I had a chance to open a bank account or legally drink beer :)
 
-You can't build great things without a great foundation, we should scale the L1 first and allow builders to build.
+Previously a DeFi builder, now building Protocols.
+You can’t build great things without a great foundation, we should scale Ethereum first and allow builders to build.
